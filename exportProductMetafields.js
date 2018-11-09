@@ -2,7 +2,7 @@ const async = require('async');
 const request = require('request');
 const jsonFile = require('jsonfile');
 // UPDATE FILE NAME IF NEEDED
-const newDataFile = './ProductMetafieldDataSubset.json';
+const newDataFile = './ProductMetafieldData.json';
 
 // ENTER CREDENTIALS HERE
 const apiKey = '';

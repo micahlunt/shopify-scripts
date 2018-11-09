@@ -8,6 +8,7 @@ Scripts for Shopify
   <ol>
     <li>Update the credentials and store URL</li>
     <li>Install any missing modules</li>
+    <li>Create the file 'ProductMetafieldData.json' in the current directory of this file</li>
     <li>Run file</li>
   </ol>
   <p>
